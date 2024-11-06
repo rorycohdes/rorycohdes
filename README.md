@@ -25,7 +25,7 @@ I first started coding in high school with pascal it felt natural as if I had a 
 
 * 🌍  I'm based in DeLand Florida
 * ✉️  You can contact me at [ror1a785@gmail.com](mailto:ror1a785@gmail.com)
-* 🧠  I'm learning Type Script
+* 🧠  I'm learning Machine Learning
 
 ### Skills
 
